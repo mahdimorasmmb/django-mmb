@@ -1,0 +1,22 @@
+@font-face{
+    font-family: sahel;
+       src: url('Sahel-Black.ttf') format('truetype');
+       
+}
+
+
+body {
+    background-image: url(../img/crossline-dots.png);
+
+}
+.logo {
+    font-family: sahel;
+
+}
+.logo a {
+    color: rgba(0, 0, 0, .9);
+}
+.logo a:hover,
+.logo a:active {
+    text-decoration: none;
+}

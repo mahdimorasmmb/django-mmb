@@ -1,0 +1,15 @@
+@font-face{
+    font-family: sahel;
+       src: url('Sahel-Black.ttf') format('truetype');
+       
+}
+
+.navbar-brand {
+    font-family: "sahel";
+}
+
+
+
+
+
+
